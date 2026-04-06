@@ -1,0 +1,205 @@
+Gene: TYR
+Method: Needleman-Wunsch (global)
+Score: 817
+Identity (%): 88.58
+Aligned length: 3324
+Matches: 1808
+Mismatches: 233
+Gap columns: 1283
+Seq1 interval: 1-2062
+Seq2 interval: 1-3303
+Runtime (s): 3.1582
+Seq1 header: NM_000372.5 Homo sapiens tyrosinase (TYR), mRNA
+Seq2 header: NM_011661.3 Mus musculus tyrosinase (Tyr), mRNA
+
+human           1 ACTGTAGTAGTAGCTGGAAAGAGAAATCTGTGACTCCAATTAGCCAGTTCCTGCAGACCTTGTGAGGA-C     69
+                       |  |  |    |  | ||   ||||||||.|..||||.||..||..||||||..|||| |.|| |
+mouse           1 -----A--A--A----G--A-AG---TCTGTGACACTCATTAACCTATTGGTGCAGATTTTGT-ATGATC     50
+
+human          70 TAGAGGAAGAATGCTCCTGGCTGTTTTGTACTGCCTGCTGTGGAGTTTCCAGACCTCCGCTGGCCATTTC    139
+                  ||.||||..||||.||.|||||||||||||.|||||.||||||||||||||||.|||.|.|||||||||.
+mouse          51 TAAAGGAGAAATGTTCTTGGCTGTTTTGTATTGCCTTCTGTGGAGTTTCCAGATCTCTGATGGCCATTTT    120
+
+human         140 CCTAGAGCCTGTGTCTCCTCTAAGAACCTGATGGAGAAGGAATGCTGTCCACCGTGGAGCGGGGACAGGA    209
+                  |||.|||||||||.|||||||||||||.||.|||..||.||||||||.|||||.||||..||.||..|||
+mouse         121 CCTCGAGCCTGTGCCTCCTCTAAGAACTTGTTGGCAAAAGAATGCTGCCCACCATGGATGGGTGATGGGA    190
+
+human         210 GTCCCTGTGGCCAGCTTTCAGGCAGAGGTTCCTGTCAGAATATCCTTCTGTCCAATGCACCACTTGGGCC    279
+                  |||||||.||||||||||||||||||||||||||.|||.|||||||||||||||.|||||||..|||.||
+mouse         191 GTCCCTGCGGCCAGCTTTCAGGCAGAGGTTCCTGCCAGGATATCCTTCTGTCCAGTGCACCATCTGGACC    260
+
+human         280 TCAATTTCCCTTCACAGGGGTGGATGACCGGGAGTCGTGGCCTTCCGTCTTTTATAATAGGACCTGCCAG    349
+                  |||.||.|||||||.|||||||||||||||.|||||.|||||.||.||.|||||||||||||||||||||
+mouse         261 TCAGTTCCCCTTCAAAGGGGTGGATGACCGTGAGTCCTGGCCCTCTGTGTTTTATAATAGGACCTGCCAG    330
+
+human         350 TGCTCTGGCAACTTCATGGGATTCAACTGTGGAAACTGCAAGTTTGGCTTTTGGGGACCAAACTGCACAG    419
+                  |||||.||||||||||||||.||||||||.||||||||.||||||||.|||.||||.|||||.||.||||
+mouse         331 TGCTCAGGCAACTTCATGGGTTTCAACTGCGGAAACTGTAAGTTTGGATTTGGGGGCCCAAATTGTACAG    400
+
+human         420 AGAGACGACTCTTGGTGAGAAGAAACATCTTCGATTTGAGTGCCCCAGAGAAGGACAAATTTTTTGCCTA    489
+                  |||..|||.|||||.|.|||||||||||.||.||||||||||.|.|.||.|||.|.||.||.|||.|.||
+mouse         401 AGAAGCGAGTCTTGATTAGAAGAAACATTTTTGATTTGAGTGTCTCCGAAAAGAATAAGTTCTTTTCTTA    470
+
+human         490 CCTCACTTTAGCAAAGCATACCATCAGCTCAGACTATGTCATCCCCATAGGGACCTATGGCCAAATGAAA    559
+                  |||||||||||||||.|||||.||||||||||.||||||||||||||.|||.|||||||||||||||||.
+mouse         471 CCTCACTTTAGCAAAACATACTATCAGCTCAGTCTATGTCATCCCCACAGGCACCTATGGCCAAATGAAC    540
+
+human         560 AATGGATCAACACCCATGTTTAACGACATCAATATTTATGACCTCTTTGTCTGGATGCATTATTATGTGT    629
+                  |||||.|||||||||||||||||.||.|||||.||.||.|||||||||||.|||||||||||.|||||||
+mouse         541 AATGGGTCAACACCCATGTTTAATGATATCAACATCTACGACCTCTTTGTATGGATGCATTACTATGTGT    610
+
+human         630 CAATGGATGCACTGCTTGGGGGATCTGAAATCTGGAGAGACATTGATTTTGCCCATGAAGCACCAGCTTT    699
+                  |||.|||..|||||||||||||.||||||||.|||||.||||||||||||||||||||||||||||..||
+mouse         611 CAAGGGACACACTGCTTGGGGGCTCTGAAATATGGAGGGACATTGATTTTGCCCATGAAGCACCAGGGTT    680
+
+human         700 TCTGCCTTGGCATAGACTCTTCTTGTTGCGGTGGGAACAAGAAA-TCCAGAAGCTGACAGGAGATGAAAA    768
+                  ||||||||||||.|||||.||||||||...|||||||||||||| ||.|||| ||.||.||.|||||.||
+mouse         681 TCTGCCTTGGCACAGACTTTTCTTGTTATTGTGGGAACAAGAAATTCGAGAA-CTAACTGGGGATGAGAA    749
+
+human         769 CTTCACTATTCCATATTGGGACTGGCGGGATGCAGAAAAGTGTGACATTTGCACAGATGAGTACATGGGA    838
+                  |||||||.|||||||.|||||.|||.|.|||||||||||.||||||||||||||||||||||||.|||||
+mouse         750 CTTCACTGTTCCATACTGGGATTGGAGAGATGCAGAAAACTGTGACATTTGCACAGATGAGTACTTGGGA    819
+
+human         839 GGTCAGCACCCCACAAATCCTAACTTACTCAGCCCAGCATCATTCTTCTCCTCTTGGCAGATTGTCTGTA    908
+                  ||||..|||||...|||||||||||||||||||||||||||.|||||||||||.||||||||..|.||||
+mouse         820 GGTCGTCACCCTGAAAATCCTAACTTACTCAGCCCAGCATCCTTCTTCTCCTCCTGGCAGATCATTTGTA    889
+
+human         909 GCCGATTGGAGGAGTACAACAGCCATCAGTCTTTATGCAATGGAACGCCCGAGGGACCTTTACGGCGTAA    978
+                  ||.|||..||.|||||.||.|||||||||..|||||||.|||||||.||.||||||||..||...|||||
+mouse         890 GCAGATCAGAAGAGTATAATAGCCATCAGGTTTTATGCGATGGAACACCTGAGGGACCACTATTACGTAA    959
+
+human         979 TCCTGGAAACCATGACAAATCCAGAACCCCAAGGCTCCCCTCTTCAGCTGATGTAGAATTTTGCCTGAGT   1048
+                  |||||||||||||||||||.|||.||||||.||||||||.||||||||.|||||.||||||||.||||||
+mouse         960 TCCTGGAAACCATGACAAAGCCAAAACCCCCAGGCTCCCATCTTCAGCAGATGTGGAATTTTGTCTGAGT   1029
+
+human        1049 TTGACCCAATATGAATCTGGTTCCATGGATAAAGCTGCCAATTTCAGCTTTAGAAATACACTGGAAGGAT   1118
+                  ||||||||.|||||||||||.||.|||||||.|.||||||||||||||||||||||.|||||||||||||
+mouse        1030 TTGACCCAGTATGAATCTGGATCAATGGATAGAACTGCCAATTTCAGCTTTAGAAACACACTGGAAGGAT   1099
+
+human        1119 TTGCTAGTCCACTTACTGGGATAGCGGATGCCTCTCAAAGCAGCATGCACAATGCCTTGCACATCTATAT   1188
+                  ||||.||||||||.||.||||||||.|||.|.||||||||.|||||||||||||||||.||.||||.|||
+mouse        1100 TTGCCAGTCCACTCACAGGGATAGCAGATCCTTCTCAAAGTAGCATGCACAATGCCTTACATATCTTTAT   1169
+
+human        1189 GAATGGAACAATGTCCCAGGTACAGGGATCTGCCAACGATCCTATCTTCCTTCTTCACCATGCATTTGTT   1258
+                  ||||||||||||||||||.|||||||||||.|||||||||||.||.||.||||||||||||||.|||||.
+mouse        1170 GAATGGAACAATGTCCCAAGTACAGGGATCGGCCAACGATCCCATTTTTCTTCTTCACCATGCTTTTGTG   1239
+
+human        1259 GACAGTATTTTTGAGCAGTGGCTCCGAAGGCACCGTCCTCTTCAAGAAGTTTATCCAGAAGCCAATGCAC   1328
+                  ||||||||||||||.||.|||||.|||||||||||.||||||...||||||||.||||||||||||||||
+mouse        1240 GACAGTATTTTTGAACAATGGCTGCGAAGGCACCGCCCTCTTTTGGAAGTTTACCCAGAAGCCAATGCAC   1309
+
+human        1329 CCATTGGACATAACCGGGAATCCTACATGGTTCCTTTTATACCACTGTACAGAAATGGTGATTTCTTTAT   1398
+                  |.||.||.||||||.|.||.||.||||||||||||||.|||||.||.||.|||||||||||||||||.||
+mouse        1310 CTATCGGCCATAACAGAGACTCTTACATGGTTCCTTTCATACCGCTCTATAGAAATGGTGATTTCTTCAT   1379
+
+human        1399 TTCATCCAAAGATCTGGGCTATGACTATAGCTATCTACAAGATTCAGACCCAGAC---T-C------T-T   1457
+                  ..|||||||.||||||||.||||||||.|||||.||.|||||.|||||.||||.|   | |      | |
+mouse        1380 AACATCCAAGGATCTGGGATATGACTACAGCTACCTCCAAGAGTCAGATCCAGGCTTTTACAGAAATTAT   1449
+
+human        1458 -TT----C--A---AG-ACTA--CA-T--TA--AGTCC-T---AT-TT--GG-A--AC------AAGC-G   1492
+                   ||    |  |   .| ||.|  || |  ||  .|.|| |   .| ||  || |  ||      .||| |
+mouse        1450 ATTGAGCCTTACTTGGAACAAGCCAGTCGTATCTGGCCATGGCTTCTTGGGGCAGCACTGGTGGGAGCTG   1519
+
+human        1493 --A--G-T-C-G---GATCT-GG--T--CA-T-GGC--T-CCTT-----------G--G--G--G-----   1520
+                    |  | | | |   ..||| ||  |  || | |||  | ||||           |  |  |  |     
+mouse        1520 TTATTGCTGCAGCTCTCTCTGGGCTTAGCAGTAGGCTATGCCTTCAGAAGAAGAAGAAGAAGAAGCAACC   1589
+
+human        1521 -C---------GGC-G--A-TGGT-A-GG-----G--G-----C-C-G--T-C-----C----TCA-C--   1545
+                   |         ||| |  | |..| | ||     |  |     | | |  | |     |    .|| |  
+mouse        1590 CCAGGAGGAAAGGCAGCCACTCCTCATGGACAAAGACGACTACCACAGCTTGCTGTATCAGAGCCATCTG   1659
+
+human        1546 TG--C--CCT--G---C----T-GG-C----AGG-------------G--C------TT-GTG-------   1567
+                  ||  |  |||  |   |    | || |    |||             |  |      || |||       
+mouse        1660 TGAACATCCTAGGAAACAGAGTGGGACTGAAAGGTTTTACCTCACTCGACCTATTTGTTGGTGTTTCTAC   1729
+
+human        1568 -----------AG-------C-T------T-GCTG--T-G-------T------C--G-----T-C--A-   1584
+                             ||       | |      | ||||  | |       |      |  |     | |  | 
+mouse        1730 AAATTTAAACTAGTATAAAACATAGACCATAGCTGTTTGGCTTTTTTTCAGACCCATGTTTTTTCCTAAG   1799
+
+human        1585 --CAAG------AGAAA-G-C----A---GC---------------------T--T--C---C---T-G-   1604
+                    |.||      ||||| | |    |   ||                     |  |  |   |   | | 
+mouse        1800 TCCTAGTTTCTAAGAAATGACTGGGATTTGCTAAAATATATATATATATAAATAATAACTTACTAATAGC   1869
+
+human        1605 ------------------------AA--GA----------A--AA---G---------------C---A-   1614
+                                          ||  ||          |  ||   |               |   | 
+mouse        1870 TAAATAAAATTTCCTCTTACAACTAATTGAGCTGGTTTTTATGAATGTGTCTTAATTATTTAAACTTGAG   1939
+
+human        1615 GC-CA-----------C-T-CCTCA-TG-G--------AG---AA-A-----------------------   1633
+                  || ||           | | |.||| || |        ||   || |                       
+mouse        1940 GCACATTTTTGTTTTCCTTACTTCATTGTGAATTTCCAAGAAAAATATTCTCTCTCTCTCTCTCTCTCGT   2009
+
+human        1634 ----------G-A---G-G-ATT-AC-----C--AC-A----G-----CTT-G--T-AT---CA-GA-GC   1660
+                            | |   | | .|| ||     |  || |    |     ||| |  | ||   .| || .|
+mouse        2010 GTGTTTGTGTGTATGTGTGTGTTAACTGATTCAAACAATTTTGAAAATCTTGGATTGATAGAAATGATTC   2079
+
+human        1661 ---CA-TT-T---A-TA----A--AAGGCTTA-G---G-C-----A--A-T--A-GAGT-----A-G-G-   1691
+                     .| || |   | ||    |  ||.|.||| |   | |     |  | |  | .|||     | | | 
+mouse        2080 ATTAATTTATGAAATTATTTCATTAATGATTAGGAAAGACGAATAATTACTAAATTAGTAACAGAGGAGA   2149
+
+human        1692 ------G-C--C-------AA-----A---AAG---CC---T-GACC-TC----ACT-CT------A-A-   1716
+                        | |  |       ||     |   |||   ||   | .||| ||    ||| .|      | | 
+mouse        2150 ACATCTGCCAGCTTTTATTAATTGTCATTTAAGTTACCTTATCTACCTTCTGTGACTGGTGGAAAAATAT   2219
+
+human        1717 C--TCAA-AG-T---AATG---T-CC----AGG-T--T--C-CC-------A----G--------AGA-A   1745
+                  |  .||| || |   ||||   | ||    ||| |  |  | ||       |    |        ||| |
+mouse        2220 CAGGCAAGAGATGGGAATGCTCTGCCTAATAGGATAGTGGCTCCTGGAAGGAGTGGGTTATTACTAGAGA   2289
+
+human        1746 -TA-T--CT---G-----C-T-G---G-----T-AT---------T---T---T----TCT---G--T-A   1767
+                   || |  ||   |     | | |   |     | ||         |   |   |    |||   |  | |
+mouse        2290 TTATTACCTGAAGTTTACCATAGCCAGAAAATTAATCAAAACAGATGACTCAGTAACATCTGAAGCTTCA   2359
+
+human        1768 A-------AGAC--C-A--T----T--T-----------G-C-AA--AAT-----------T--GTAAC-   1790
+                  |       .|||  | |  |    |  |           | | ||  |||           |  |.||| 
+mouse        2360 AGTCGGCTTGACTGCAATCTGAAATCATCAAGCCCAAGAGCCAAAGGAATGGGAACAGCGATGGGAAACT   2429
+
+human        1791 --CT-AAT---A--C-A-----A-AGTGT-A---GC-C-----T--TC-TT-----C--CA-A-C-----   1818
+                    || |||   |  | |     | ||||| |   || |     |  || ||     |  || | |     
+mouse        2430 ATCTGAATCAGATTCTAGTGTGATAGTGTCAGGGGCACATGGGTCATCTTTGAGACCTTCACACCTGTTG   2499
+
+human        1819 --T---C---A---G--GT--A-G---A-----AC-----A--CA------C----C----T-----G--   1836
+                    |   |   |   |  ||  | |   |     ||     |  .|      |    |    |     |  
+mouse        2500 AGTCACCAAAATTTGCTGTGAATGTAAATTTTTACTGTAAATTAATTTTTTCTTTTCTTTTTAAAAAGAT   2569
+
+human        1837 --------T-CT-T---T--GT---CT-T-GCTG--TT-------------------T-TC--A---C--   1857
+                          | .| |   |  ||   || | ||||  ||                   | ||  |   |  
+mouse        2570 TTATTTATTATTATACATAAGTACACTGTAGCTGTCTTCAGACACACCAGAAGAGGGTGTCAGATCTCAT   2639
+
+human        1858 T-C-----------AG---CC---------C-------T----T-------T-T------A-A--CA-T-   1873
+                  | |           ||   ||         |       |    |       | |      | |  || | 
+mouse        2640 TACAGATGGTTGTGAGCCACCATGTGGTTGCTGGGATTTGAACTCAGGACCTCTGGAAGAACAGTCAGTG   2709
+
+human        1874 -T-TT-CCC-CT-----A-------AG-CC------------C---------A-T---A--T--G-TCTA   1896
+                   | || ||| ||     |       || ||            |         | |   |  |  | |.||
+mouse        2710 CTCTTACCCGCTGAGCCATCTCGCCAGCCCAGTAAATTTTTACTTTAGTGAAAGTAAAATTTAAGTTTTA   2779
+
+human        1897 ------AG----G---AA----A-G--G---A----T-G----------------------C---TA-T-   1911
+                        ||    |   ||    | |  |   |    | |                      |   || | 
+mouse        2780 GTTTTTAGTTTAGTAAAATTTTAGGAAGCAAATTTTTAGTTTTCTAAACTAATTTTTTTTTCTAGTACTG   2849
+
+human        1912 ----T--------TG----G----T--AAT----G-A-------G------G--A---A-C-TG----T-   1929
+                      |        ||    |    |  |||    | |       |      |  |   | | ||    | 
+mouse        2850 GACATCAACCCAGTGCCTTGTATATGCAATGCAAGCATTTTCTTGTACTCTGCTACCTAGCATGTATATA   2919
+
+human        1930 T--AT-T----------TG-T-A-T---G-TG--AA-------T-T-AA---AGTG--------------   1951
+                  |  || |          || | | |   | ||  ||       | | ||   ||||              
+mouse        2920 TAAATCTACCCAACAAATGTTCATTACAGCTGACAAGGGTCTTTATAAACTCAGTGTTTCCCTTTATCAC   2989
+
+human        1952 -----------CT-C-TT---A-TT--T-T-A--A-A-AA-ATTG-----------A-------AA--TA   1975
+                             || | ||   | ||  | | |  | | || ||||           |       ||  ||
+mouse        2990 AATACAATTCCCTCCTTTGCCACTTCATGTCATCATAGAATATTGTTTTTTTCTCTAGCGGTTCAAGGTA   3059
+
+human        1976 ---A-TT-T-T-G-A-T------TTT--T----G---CC-T-TC--TGA-T-TAT-T-T-A--A-AG-AT   2008
+                     | || | | | | |      |||  |    |   || | ||  ||| | ||| | | |  | .| |.
+mouse        3060 TGTATTTGTATAGCAGTCACACCTTTGATAAAAGTTACCATCTCTTTGATTATATATCTCATTATGGTAA   3129
+
+human        2009 C-----TATA-TATG-----TT---T-TAT-TG---G--------------C-----C-----------C   2029
+                  |     |||| ||||     ||   | ||| ||   |              |     |           |
+mouse        3130 CAAAATTATATTATGACTATTTCAATATATCTGAAAGTTTCATTAAATTCTCATTAACTTTGTATATTTC   3199
+
+human        2030 ---CTT-C---TT-T--A---TTT-T--A-------A--------T--AA-------------A-A-CA-   2050
+                     ||| |   || |  |   ||| |  |       |        |  ||             | | || 
+mouse        3200 AGTCTTGCTTATTGTGAAGCTTTTATAAATTGCTTCACTTTTTTCTGAAATTGTCCTGTTGCTACATCAT   3269
+
+human        2051 ---G-T--G----AGA-AA-T--C--TA------   2062
+                     | |  |    |.| || |  |  ||      
+mouse        3270 TCTGTTAAGAAATAAATAAGTGGCAATATTTTCC   3303
