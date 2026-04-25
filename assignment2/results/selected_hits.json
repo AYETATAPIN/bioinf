@@ -1,0 +1,112 @@
+[
+  {
+    "accession": "XM_012075629.1",
+    "gene_symbol": "TYR",
+    "scientific_name": "Cercocebus atys",
+    "russian_name": "Чёрный мангабей",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 96.228,
+    "description": "XM_012075629.1 PREDICTED: Cercocebus atys tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_011938472.1",
+    "gene_symbol": "TYR",
+    "scientific_name": "Colobus angolensis",
+    "russian_name": "Colobus angolensis",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 96.325,
+    "description": "XM_011938472.1 PREDICTED: Colobus angolensis palliatus tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_031006243.3",
+    "gene_symbol": "TYR",
+    "scientific_name": "Gorilla gorilla",
+    "russian_name": "западная горилла",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 99.321,
+    "description": "XM_031006243.3 PREDICTED: Gorilla gorilla gorilla tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_032168104.2",
+    "gene_symbol": "TYR",
+    "scientific_name": "Hylobates moloch",
+    "russian_name": "Серебристый гиббон",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 97.58,
+    "description": "XM_032168104.2 PREDICTED: Hylobates moloch tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_005579315.4",
+    "gene_symbol": "TYR",
+    "scientific_name": "Macaca fascicularis",
+    "russian_name": "макак-крабоед",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 96.18,
+    "description": "XM_005579315.4 PREDICTED: Macaca fascicularis tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_011984894.1",
+    "gene_symbol": "TYR",
+    "scientific_name": "Mandrillus leucophaeus",
+    "russian_name": "Дрил",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 96.18,
+    "description": "XM_011984894.1 PREDICTED: Mandrillus leucophaeus tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_003832989.4",
+    "gene_symbol": "TYR",
+    "scientific_name": "Pan paniscus",
+    "russian_name": "карликовый шимпанзе",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 99.418,
+    "description": "XM_003832989.4 PREDICTED: Pan paniscus tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_023209125.1",
+    "gene_symbol": "TYR",
+    "scientific_name": "Piliocolobus tephrosceles",
+    "russian_name": "Piliocolobus tephrosceles",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 96.47,
+    "description": "XM_023209125.1 PREDICTED: Piliocolobus tephrosceles tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_054439386.2",
+    "gene_symbol": "TYR",
+    "scientific_name": "Pongo pygmaeus",
+    "russian_name": "Борнейский орангутан",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 97.594,
+    "description": "XM_054439386.2 PREDICTED: Pongo pygmaeus tyrosinase (TYR), mRNA"
+  },
+  {
+    "accession": "XM_033205968.1",
+    "gene_symbol": "TYR",
+    "scientific_name": "Trachypithecus francoisi",
+    "russian_name": "Тонкинский гульман",
+    "major_group": "mammal",
+    "evalue": 0.0,
+    "query_cover": null,
+    "percent_identity": 96.325,
+    "description": "XM_033205968.1 PREDICTED: Trachypithecus francoisi tyrosinase (TYR), mRNA"
+  }
+]

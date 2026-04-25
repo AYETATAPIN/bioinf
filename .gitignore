@@ -1,2 +1,4 @@
 .tmp/
 .pkg/
+__pycache__/
+*.pyc

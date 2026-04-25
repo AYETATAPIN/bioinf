@@ -1,0 +1,5 @@
+gene	method	score	identity_percent	aligned_length	matches	mismatches	gap_columns	seq1_interval	seq2_interval	runtime_seconds
+OCA2	Needleman-Wunsch (global)	3915	79.09	3211	2424	641	146	1-3143	1-3133	4.5404
+OCA2	Smith-Waterman (local)	3956	78.91	3179	2417	646	116	3-3142	32-3133	5.0455
+TYR	Needleman-Wunsch (global)	817	88.58	3324	1808	233	1283	1-2062	1-3303	3.2878
+TYR	Smith-Waterman (local)	2708	81.01	2078	1621	380	77	19-2061	1-2036	3.1781

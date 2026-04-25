@@ -8,7 +8,7 @@ Mismatches: 380
 Gap columns: 77
 Seq1 interval: 19-2061
 Seq2 interval: 1-2036
-Runtime (s): 3.6777
+Runtime (s): 3.1781
 Seq1 header: NM_000372.5 Homo sapiens tyrosinase (TYR), mRNA
 Seq2 header: NM_011661.3 Mus musculus tyrosinase (Tyr), mRNA
 

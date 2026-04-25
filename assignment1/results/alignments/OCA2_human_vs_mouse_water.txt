@@ -8,7 +8,7 @@ Mismatches: 646
 Gap columns: 116
 Seq1 interval: 3-3142
 Seq2 interval: 32-3133
-Runtime (s): 5.5901
+Runtime (s): 5.0455
 Seq1 header: NM_000275.3 Homo sapiens OCA2 melanosomal transmembrane protein (OCA2), transcript variant 1, mRNA
 Seq2 header: NM_021879.3 Mus musculus oculocutaneous albinism II (Oca2), transcript variant 1, mRNA
 

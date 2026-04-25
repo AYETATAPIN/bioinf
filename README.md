@@ -1,14 +1,21 @@
-# Assignment 1: Eye Color Phenotype
+# Bioinformatics Homework Repository
 
-Repository contents for phenotype "eye color":
+This repository contains two assignments:
 
-- phenotype report: `results/phenotype_eye_color.md`
-- FASTA files: `data/fasta/`
-- alignment reports: `results/alignments/`
-- alignment quality summary: `results/alignment_summary.tsv`
+- `assignment1/` - phenotype of eye color, ortholog pairwise alignments
+- `assignment2/` - taxonomic representation of TYR homologs, BLAST + MSA analysis
 
-Run:
+## Assignment 1 quick run
 
 ```bash
-python scripts/run_alignments.py
+python assignment1/scripts/run_alignments.py --fasta-dir assignment1/data/fasta --out-dir assignment1/results
+```
+
+## Assignment 2 quick run
+
+1. Export BLAST hit table CSV to `assignment2/input/blast_hits.csv` (see `assignment2/README.md`).
+2. Run:
+
+```bash
+python assignment2/scripts/run_assignment2.py --repo-root .
 ```

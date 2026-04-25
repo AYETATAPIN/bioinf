@@ -1,0 +1,11 @@
+accession,gene_symbol,scientific_name,russian_name,major_group,evalue,query_cover,percent_identity,description
+XM_012075629.1,TYR,Cercocebus atys,Чёрный мангабей,mammal,0.000e+00,,96.23,"XM_012075629.1 PREDICTED: Cercocebus atys tyrosinase (TYR), mRNA"
+XM_011938472.1,TYR,Colobus angolensis,Colobus angolensis,mammal,0.000e+00,,96.33,"XM_011938472.1 PREDICTED: Colobus angolensis palliatus tyrosinase (TYR), mRNA"
+XM_031006243.3,TYR,Gorilla gorilla,западная горилла,mammal,0.000e+00,,99.32,"XM_031006243.3 PREDICTED: Gorilla gorilla gorilla tyrosinase (TYR), mRNA"
+XM_032168104.2,TYR,Hylobates moloch,Серебристый гиббон,mammal,0.000e+00,,97.58,"XM_032168104.2 PREDICTED: Hylobates moloch tyrosinase (TYR), mRNA"
+XM_005579315.4,TYR,Macaca fascicularis,макак-крабоед,mammal,0.000e+00,,96.18,"XM_005579315.4 PREDICTED: Macaca fascicularis tyrosinase (TYR), mRNA"
+XM_011984894.1,TYR,Mandrillus leucophaeus,Дрил,mammal,0.000e+00,,96.18,"XM_011984894.1 PREDICTED: Mandrillus leucophaeus tyrosinase (TYR), mRNA"
+XM_003832989.4,TYR,Pan paniscus,карликовый шимпанзе,mammal,0.000e+00,,99.42,"XM_003832989.4 PREDICTED: Pan paniscus tyrosinase (TYR), mRNA"
+XM_023209125.1,TYR,Piliocolobus tephrosceles,Piliocolobus tephrosceles,mammal,0.000e+00,,96.47,"XM_023209125.1 PREDICTED: Piliocolobus tephrosceles tyrosinase (TYR), mRNA"
+XM_054439386.2,TYR,Pongo pygmaeus,Борнейский орангутан,mammal,0.000e+00,,97.59,"XM_054439386.2 PREDICTED: Pongo pygmaeus tyrosinase (TYR), mRNA"
+XM_033205968.1,TYR,Trachypithecus francoisi,Тонкинский гульман,mammal,0.000e+00,,96.33,"XM_033205968.1 PREDICTED: Trachypithecus francoisi tyrosinase (TYR), mRNA"
