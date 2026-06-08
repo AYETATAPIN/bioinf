@@ -1,0 +1,4 @@
+version: 0.1.1
+default:
+  # No external database/storage is required for this homework project.
+  profile: default

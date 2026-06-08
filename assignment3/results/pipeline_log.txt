@@ -1,0 +1,15 @@
+[2026-06-08 16:16:22] Assignment 3 mapping QC pipeline started
+[2026-06-08 16:16:22] SRA run: SRR22784690
+[2026-06-08 16:16:22] Reference FASTA: /mnt/d/prg/bioinf/assignment3/data/GCF_027278225.1_ASM2727822v1_genomic.fna
+[2026-06-08 16:16:22] Using FASTQ file: /mnt/d/prg/bioinf/assignment3/data/SRR22784690_1.fastq
+[2026-06-08 16:16:22] Skipping FastQC because RUN_FASTQC=0
+[2026-06-08 16:16:22] Mapping reads with minimap2
+[2026-06-08 16:17:29] Converting SAM to BAM
+[2026-06-08 16:17:37] Running samtools flagstat
+[2026-06-08 16:17:43] Parsing mapped-read percentage
+mapped_percent=99.57
+threshold=90.00
+status=OK
+[2026-06-08 16:17:44] Mapping quality decision: OK
+[2026-06-08 16:17:44] Sorting BAM
+[2026-06-08 16:18:08] Finished

@@ -1,0 +1,59 @@
+blocks:
+  - all_upstream_blocks_executed: true
+    color: blue
+    configuration: {}
+    downstream_blocks:
+      - run_mapping_qc
+    executor_config: null
+    executor_type: local_python
+    language: python
+    name: prepare_mapping_inputs
+    status: not_executed
+    type: data_loader
+    upstream_blocks: []
+    uuid: prepare_mapping_inputs
+  - all_upstream_blocks_executed: false
+    color: yellow
+    configuration: {}
+    downstream_blocks:
+      - parse_mapping_quality
+    executor_config: null
+    executor_type: local_python
+    language: python
+    name: run_mapping_qc
+    status: not_executed
+    type: custom
+    upstream_blocks:
+      - prepare_mapping_inputs
+    uuid: run_mapping_qc
+  - all_upstream_blocks_executed: false
+    color: green
+    configuration: {}
+    downstream_blocks:
+      - write_mapping_report
+    executor_config: null
+    executor_type: local_python
+    language: python
+    name: parse_mapping_quality
+    status: not_executed
+    type: transformer
+    upstream_blocks:
+      - run_mapping_qc
+    uuid: parse_mapping_quality
+  - all_upstream_blocks_executed: false
+    color: purple
+    configuration: {}
+    downstream_blocks: []
+    executor_config: null
+    executor_type: local_python
+    language: python
+    name: write_mapping_report
+    status: not_executed
+    type: data_exporter
+    upstream_blocks:
+      - parse_mapping_quality
+    uuid: write_mapping_report
+cache_block_output_in_memory: false
+name: mapping_qc
+type: python
+uuid: mapping_qc

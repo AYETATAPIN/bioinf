@@ -1,0 +1,31 @@
+blocks:
+  - all_upstream_blocks_executed: true
+    color: blue
+    configuration: {}
+    downstream_blocks:
+      - hello_world_exporter
+    executor_config: null
+    executor_type: local_python
+    language: python
+    name: hello_world_loader
+    status: not_executed
+    type: data_loader
+    upstream_blocks: []
+    uuid: hello_world_loader
+  - all_upstream_blocks_executed: false
+    color: green
+    configuration: {}
+    downstream_blocks: []
+    executor_config: null
+    executor_type: local_python
+    language: python
+    name: hello_world_exporter
+    status: not_executed
+    type: data_exporter
+    upstream_blocks:
+      - hello_world_loader
+    uuid: hello_world_exporter
+cache_block_output_in_memory: false
+name: hello_world
+type: python
+uuid: hello_world
