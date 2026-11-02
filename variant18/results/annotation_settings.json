@@ -1,0 +1,20 @@
+{
+  "access_date": "2026-11-02",
+  "reference_assembly": "GRCh38",
+  "ensembl_release": 116,
+  "ensembl_endpoint": "https://rest.ensembl.org/vep/human/region",
+  "ensembl_options": {
+    "canonical": true,
+    "mane": true,
+    "hgvs": true,
+    "variant_class": true
+  },
+  "transcript_selection_rule": "most severe Sequence Ontology consequence; among matching transcripts: MANE Select > canonical > protein-coding > first available",
+  "clinvar_endpoint": "NCBI E-utilities esearch/esummary, database clinvar",
+  "clinvar_query": "<rsID>[variant id]",
+  "gnomad_source": "Ensembl VEP colocated_variants frequencies",
+  "gnomad_fields": {
+    "gnomad_exomes_af": "gnomade",
+    "gnomad_genomes_af": "gnomadg"
+  }
+}

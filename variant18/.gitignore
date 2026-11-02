@@ -1,0 +1,4 @@
+scripts/node_modules
+scripts/__pycache__/
+results/tables/*_preview.png
+results/tables/*.inspect.ndjson
